@@ -26,9 +26,10 @@ Step 1: Upzip the folder "Local Voice Ollama.rar"
 --------------------------------
 
 把 `Local Voice Ollama` 資料夾解壓到 C 槽或 D 槽。  
-Put `Local Voice Ollama` into C :\ or D :\  
-
 不建議放在 Chrome Extension 原本的資料夾裡。  
+
+
+Put `Local Voice Ollama` into C :\ or D :\  
 Please don't put it in the Chrome Extension Folder.  
 <img width="1113" height="638" alt="1" src="https://github.com/user-attachments/assets/230622c9-b62e-4338-a922-318065f3a708" />
 
@@ -74,10 +75,11 @@ Step 5：Install Python
 ----------------
 
 前往 Python 官方網站下載並安裝 Windows 版本。  
-Download and install the Windows version from the official Python website.  
-
 建議安裝時勾選 `Add Python to PATH`。  
+Download and install the Windows version from the official Python website.  
 We recommend checking Add Python to PATH during installation.  
+
+
 
 <img width="1381" height="751" alt="5" src="https://github.com/user-attachments/assets/eefc35bb-35c3-4917-bee5-1b018b0bef00" />
 
@@ -148,9 +150,9 @@ Step 11：Open the extension panel
 ----------------
 
 在 Chrome 右上角點擊 Local AI Subtitle / Local Voice Ollama 的擴充功能圖示，開啟面板。  
-Click the Local AI Subtitle / Local Voice Ollama extension icon in the top-right corner of Chrome to open the panel.  
-
 如果右側或命令列開始出現字幕 / 文字輸出，代表服務已經啟動成功。  
+  
+Click the Local AI Subtitle / Local Voice Ollama extension icon in the top-right corner of Chrome to open the panel.  
 If subtitles / text output starts appearing on the right side or in the command line, it means the service has started successfully.  
 
 <img width="1784" height="1226" alt="12" src="https://github.com/user-attachments/assets/4303f1b9-45d8-4a80-89ca-44cdf3a68c61" />
