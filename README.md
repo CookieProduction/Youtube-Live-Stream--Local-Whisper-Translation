@@ -8,7 +8,8 @@ Modded Version of "ViiTor" Chrome extensions, Removed 30min limit and use local 
 <img width="996" height="672" alt="4" src="https://github.com/user-attachments/assets/a3e2cce8-198c-4080-a5cf-014c0367565d" />
 <img width="1381" height="751" alt="5" src="https://github.com/user-attachments/assets/c6ca9c04-ad5e-4319-b4ee-190032d05ed2" />
 <img width="482" height="259" alt="6" src="https://github.com/user-attachments/assets/5ecd22d9-9892-4872-bc6f-681d82b6374b" />
-<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/805973c5-c39d-48b8-b088-35976a13d3c4" />
+<img width="654" height="511" alt="7" src="https://github.com/user-attachments/assets/87bc328c-cebe-4844-9a28-0969b9e0e1a7" />
+
 
 pip install numpy
 //////////////
