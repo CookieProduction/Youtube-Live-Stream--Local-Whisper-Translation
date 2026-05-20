@@ -55,7 +55,7 @@ Step 3：Select the 2.0.4\_0 folder
 ----------------------
 
 選擇 `2.0.4_0` 資料夾，然後按「選擇資料夾」。  
-Select the 2.0.4_0 folder, then click “Select folder”.  
+Select the `2.0.4_0` folder, then click “Select folder”.  
 
 <img width="1173" height="710" alt="3" src="https://github.com/user-attachments/assets/d45e9cf2-566b-45a1-9801-200de9f8b34a" />
 
@@ -77,7 +77,7 @@ Step 5：Install Python
 前往 Python 官方網站下載並安裝 Windows 版本。  
 建議安裝時勾選 `Add Python to PATH`。  
 Download and install the Windows version from the official Python website.  
-We recommend checking Add Python to PATH during installation.  
+We recommend checking `Add Python to PATH` during installation.  
 
 
 
