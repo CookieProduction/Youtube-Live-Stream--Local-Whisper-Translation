@@ -3,10 +3,10 @@ Local Voice Ollama 安裝與啟動教學
 
 向下滾動閱讀完整步驟
 
-Step 1：複製 Local Voice Ollama 資料夾
+Step 1：解壓 Local Voice Ollama 資料夾
 --------------------------------
 
-把 `Local Voice Ollama` 資料夾複製到 C 槽或 D 槽。
+把 `Local Voice Ollama` 資料夾解壓到 C 槽或 D 槽。
 
 不建議放在 Chrome Extension 原本的資料夾裡。
 <img width="1113" height="638" alt="1" src="https://github.com/user-attachments/assets/230622c9-b62e-4338-a922-318065f3a708" />
