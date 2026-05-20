@@ -1,2 +1,15 @@
 # Youtube-Live-Stream--Local-Whisper-Translation
 Modded Version of "ViiTor" Chrome extensions
+<img width="1113" height="638" alt="1" src="https://github.com/user-attachments/assets/365161e7-69c4-4312-9594-c798f500f579" />
+<img width="657" height="421" alt="2" src="https://github.com/user-attachments/assets/8698a8a7-949b-4c53-a385-2d333ffb0d9c" />
+<img width="1173" height="710" alt="3" src="https://github.com/user-attachments/assets/174ed818-1ece-473d-ba1f-b6733de5e3a3" />
+<img width="996" height="672" alt="4" src="https://github.com/user-attachments/assets/a3e2cce8-198c-4080-a5cf-014c0367565d" />
+<img width="1381" height="751" alt="5" src="https://github.com/user-attachments/assets/c6ca9c04-ad5e-4319-b4ee-190032d05ed2" />
+<img width="482" height="259" alt="6" src="https://github.com/user-attachments/assets/5ecd22d9-9892-4872-bc6f-681d82b6374b" />
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/805973c5-c39d-48b8-b088-35976a13d3c4" />
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/8b05dc4f-75f0-4c1f-8d55-0ab31ee91e90" />
+<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/1503a478-a773-4c8f-b02f-df44c1c13acb" />
+<img width="842" height="363" alt="10" src="https://github.com/user-attachments/assets/e7ed3a62-6e3a-4f14-bbbd-20e1debbe83d" />
+<img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/89efc393-5273-4076-8780-e50383c7cf79" />
+<img width="1920" height="1080" alt="11-2" src="https://github.com/user-attachments/assets/78d5f48f-a796-4808-add9-d4369bcd9709" />
+<img width="1784" height="1226" alt="12" src="https://github.com/user-attachments/assets/d0ab3046-05c3-4b6b-93ce-ec305afdf082" />
