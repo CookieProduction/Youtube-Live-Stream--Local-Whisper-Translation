@@ -19,35 +19,35 @@ Local Voice Ollama 安裝與啟動教學
 
 ==========================
 
-Step 1：解壓 Local Voice Ollama 資料夾
-Step 1: Upzip the folder "Local Voice Ollama.rar"
+Step 1：解壓 Local Voice Ollama 資料夾  
+Step 1: Upzip the folder "Local Voice Ollama.rar"  
 --------------------------------
 
-把 `Local Voice Ollama` 資料夾解壓到 C 槽或 D 槽。
-Put `Local Voice Ollama` into C :\ or D :\
+把 `Local Voice Ollama` 資料夾解壓到 C 槽或 D 槽。  
+Put `Local Voice Ollama` into C :\ or D :\  
 
-不建議放在 Chrome Extension 原本的資料夾裡。
-Please don't put it in the Chrome Extension Folder.
+不建議放在 Chrome Extension 原本的資料夾裡。  
+Please don't put it in the Chrome Extension Folder.  
 <img width="1113" height="638" alt="1" src="https://github.com/user-attachments/assets/230622c9-b62e-4338-a922-318065f3a708" />
 
 
 
 
-Step 2：安裝 Chrome 擴充功能
-Step 2：Install Chrome Extension
+Step 2：安裝 Chrome 擴充功能    
+Step 2：Install Chrome Extension  
 ---------------------
 
-開啟 Chrome，進入：
+開啟 Chrome，進入：  
 
 `chrome://extensions`
 
-點選「載入未封裝項目」。
-Click on “Load unpacked”.
+點選「載入未封裝項目」。  
+Click on “Load unpacked”.  
 
 <img width="657" height="421" alt="2" src="https://github.com/user-attachments/assets/d0a5043d-e55f-45dc-9dfe-ed8b6497fbdb" />
 
 
-Step 3：選擇 2.0.4\_0 資料夾
+Step 3：選擇 2.0.4\_0 資料夾  
 Step 3：Select the 2.0.4\_0 folder
 ----------------------
 
@@ -57,7 +57,7 @@ Select the 2.0.4_0 folder, then click “Select folder”.
 <img width="1173" height="710" alt="3" src="https://github.com/user-attachments/assets/d45e9cf2-566b-45a1-9801-200de9f8b34a" />
 
 
-Step 4：安裝 Ollama
+Step 4：安裝 Ollama  
 Step 4：Install Ollama
 ----------------
 
