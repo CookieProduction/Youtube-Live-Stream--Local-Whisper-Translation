@@ -10,9 +10,9 @@ Modded Version of "ViiTor" Chrome extensions, Removed 30min limit and use local 
 <img width="482" height="259" alt="6" src="https://github.com/user-attachments/assets/5ecd22d9-9892-4872-bc6f-681d82b6374b" />
 <img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/805973c5-c39d-48b8-b088-35976a13d3c4" />
 
-pip install numpy
-pip install websockets
-pip install faster_whisper
+#pip install numpy
+#pip install websockets
+#pip install faster_whisper
 
 
 
