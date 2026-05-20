@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>Local Voice Ollama 安裝教學</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            margin: 0;
+            background: #111;
+            color: #eee;
+            font-family: Arial, "Microsoft JhengHei", sans-serif;
+            line-height: 1.6;
+        }
+
+        header {
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            background: #000;
+            padding: 18px 24px;
+            border-bottom: 1px solid #333;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 26px;
+            color: #fff;
+        }
+
+        header p {
+            margin: 6px 0 0;
+            color: #aaa;
+            font-size: 14px;
+        }
+
+        main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 30px 16px 80px;
+        }
+
+        section {
+            margin-bottom: 60px;
+            background: #1b1b1b;
+            border-radius: 14px;
+            padding: 20px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.35);
+        }
+
+        section h2 {
+            margin-top: 0;
+            color: #ff4444;
+            font-size: 28px;
+            letter-spacing: 1px;
+        }
+
+        section p {
+            color: #ddd;
+            font-size: 17px;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            display: block;
+            border-radius: 10px;
+            border: 1px solid #333;
+            background: #000;
+        }
+
+        .note {
+            background: #2a1a1a;
+            border-left: 5px solid #ff3333;
+            padding: 12px 16px;
+            margin: 16px 0;
+            color: #fff;
+        }
+
+        code {
+            background: #000;
+            color: #00ff99;
+            padding: 3px 6px;
+            border-radius: 4px;
+            font-size: 15px;
+        }
+
+        footer {
+            text-align: center;
+            color: #777;
+            padding: 40px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Local Voice Ollama 安裝與啟動教學</h1>
+    <p>向下滾動閱讀完整步驟</p>
+</header>
+
+<main>
+<section>
+        <h2>Step 1：複製 Local Voice Ollama 資料夾</h2>
+        <p>把 <code>Local Voice Ollama</code> 資料夾複製到 C 槽或 D 槽。</p>
+        <div class="note">
+            不建議放在 Chrome Extension 原本的資料夾裡。
+        </div>
+        <img src="1.png" alt="Copy Local Voice Ollama Folder">
+    </section>
+	
+	<section>
+        <h2>Step 2：安裝 Chrome 擴充功能</h2>
+        <p>開啟 Chrome，進入：</p>
+        <p><code>chrome://extensions</code></p>
+        <p>點選「載入未封裝項目」。</p>
+        <img src="2.png" alt="Load Unpacked Extension">
+    </section>
+	
+	<section>
+        <h2>Step 3：選擇 2.0.4_0 資料夾</h2>
+        <p>選擇 <code>2.0.4_0</code> 資料夾，然後按「選擇資料夾」。</p>
+        <img src="3.png" alt="Choose 2.0.4_0 Folder">
+    </section>
+	
+	
+	<section>
+        <h2>Step 4：安裝 Ollama</h2>
+        <p>前往 Ollama 官方網站下載並安裝 Ollama。</p>
+        <img src="4.png" alt="Download Ollama">
+    </section>
+	
+    <section>
+        <h2>Step 5：安裝 Python</h2>
+        <p>前往 Python 官方網站下載並安裝 Windows 版本。</p>
+        <div class="note">
+            建議安裝時勾選 <code>Add Python to PATH</code>。
+        </div>
+        <img src="5.png" alt="Download and Install Python">
+    </section>
+    <section>
+        <h2>Step 6：開啟 PowerShell</h2>
+        <p>Python 和 Ollama 安裝完成後，開啟 Windows PowerShell。</p>
+        <img src="6.png" alt="Launch PowerShell">
+    </section>
+    <section>
+        <h2>Step 7：安裝需要的 Python 套件</h2>
+        <p>在命令提示字元或 PowerShell 裡執行以下指令：</p>
+        <p><code>pip install numpy</code></p>
+        <p><code>pip install websockets</code></p>
+        <p><code>pip install faster-whisper</code></p>
+        <img src="7.png" alt="Install Python Packages">
+    </section>
+
+
+
+    <section>
+        <h2>Step 8：下載 Ollama 模型</h2>
+        <p>在 PowerShell 輸入以下指令：</p>
+        <p><code>ollama pull qwen2.5:3b-instruct</code></p>
+        <img src="10.png" alt="Ollama Pull Model">
+    </section>
+
+    <section>
+        <h2>Step 9：啟動 Ollama</h2>
+        <p>從開始選單搜尋 Ollama，並啟動 Ollama。</p>
+        <img src="11.png" alt="Launch Ollama">
+    </section>
+
+    
+
+
+
+ 
+
+
+
+
+
+
+
+    <section>
+        <h2>Step 10：執行 launch.bat</h2>
+        <p>進入 <code>Local Voice Ollama / 2.0.4_0</code> 資料夾，執行：</p>
+        <p><code>launch.bat</code></p>
+        <img src="11-2.png" alt="Run launch.bat">
+    </section>
+
+    <section>
+        <h2>Step 13：開啟擴充功能面板</h2>
+        <p>在 Chrome 右上角點擊 Local AI Subtitle / Local Voice Ollama 的擴充功能圖示，開啟面板。</p>
+		<p>如果右側或命令列開始出現字幕 / 文字輸出，代表服務已經啟動成功。</p>
+        <img src="12.png" alt="Launch Extension Panel">
+    </section>
+
+
+
+</main>
+
+<footer>
+    Local Voice Ollama Guide
+</footer>
+
+</body>
+</html>
