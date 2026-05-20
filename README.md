@@ -1,6 +1,9 @@
 # Youtube-Live-Stream--Local-Whisper-Translation
 Modded Version of "ViiTor" Chrome extensions, Removed 30min limit and use local Ollama + Whisper to Translate Live Contents.
 
+I recommend using Potplayer Whisper + Ollama Translate Instead,
+But some Youtube Membership content Potplayer can not be played.
+If you wanted to watch those Membership translate content, You can try this modded extenstion.
 
 <img width="1113" height="638" alt="1" src="https://github.com/user-attachments/assets/365161e7-69c4-4312-9594-c798f500f579" />
 <img width="657" height="421" alt="2" src="https://github.com/user-attachments/assets/8698a8a7-949b-4c53-a385-2d333ffb0d9c" />
