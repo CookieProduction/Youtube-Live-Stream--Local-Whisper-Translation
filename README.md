@@ -18,7 +18,7 @@ If you wanted to watch those Membership translate content, You can try this modd
 pip install numpy
 //////////////
 pip install websockets
-//////////////
+///////////////
 pip install faster_whisper
 
 
