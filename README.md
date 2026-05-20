@@ -1,19 +1,21 @@
 
-個人推介使用Potplayer, 但Potplayer 有一些Membership 的東西會無法播放
-想機翻會限直播只好用 "ViiTor" 這個，
-但 "ViiTor" 本身翻譯只能每天用30 分鐘
-本Github 是利用它的引撆去改成本地 Whisper + Ollama 去翻譯
-翻譯大概會有一秒多的delay
+個人推介使用Potplayer, 但Potplayer 有一些Membership 的東西會無法播放  
+想機翻會限直播只好用 "ViiTor" 這個，  
+但 "ViiTor" 本身翻譯只能每天用30 分鐘  
+本Github 是利用它的引撆去改成本地 Whisper + Ollama 去翻譯  
+翻譯大概會有一秒多的delay  
 
-Its a Google Chrome Extenstion for Vtuber Subtitle
-which needs LOCAL Ollama + Local Whisper
-(potplayer can do the same thing, but potplayer can't play Membership content.)
+Its a Google Chrome Extenstion for Vtuber Subtitle  
+which needs LOCAL Ollama + Local Whisper  
+(potplayer can do the same thing, but potplayer can't play Membership content.)  
 
-*This is a AI modded Extention for ViiTor 
-which disabled the 30min free limit and the server Translate function.
+*This is a AI modded Extention for ViiTor   
+which disabled the 30min free limit and the server Translate function.  
 
 
-Local Voice Ollama 安裝與啟動教學
+Local Voice Ollama 安裝與啟動教學  
+Local Voice Ollama Install Instruct  
+
 ==========================
 
 
