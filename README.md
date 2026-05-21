@@ -168,7 +168,7 @@ Local Voice Ollama Guide
 
 ============================  
 
-How To use after first launch:  
+How To use Everytime:  
 Step 9：啟動 Ollama  
 Step 9：Start Ollama  
 
@@ -178,3 +178,4 @@ Step 10：Run launch.bat
 Step 11：開啟擴充功能面板  
 Step 11：Open the extension panel  
 
+============================  
