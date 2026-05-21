@@ -118,12 +118,13 @@ Step 8：Download Ollama model(s)
 在 PowerShell 輸入以下指令：  
 Enter the following command in PowerShell:  
 
-`ollama pull qwen2.5:3b-instruct`
-`setx OLLAMA_HOST "0.0.0.0:11434"`
-`setx OLLAMA_ORIGINS "*"`
+`ollama pull qwen2.5:3b-instruct`  
+`setx OLLAMA_HOST "0.0.0.0:11434"`  
+`setx OLLAMA_ORIGINS "*"`  
 
 <img width="842" height="363" alt="10" src="https://github.com/user-attachments/assets/870605f7-43e6-475b-9dfa-1af56494c83d" />
-<img width="286" height="88" alt="image" src="https://github.com/user-attachments/assets/49b3255f-fa92-4175-8a09-76492c4339e6" />
+<img width="1492" height="716" alt="image" src="https://github.com/user-attachments/assets/848433d2-4e19-4f07-9ebb-8f2f149066b9" />
+
 
 
 Step 9：啟動 Ollama  
