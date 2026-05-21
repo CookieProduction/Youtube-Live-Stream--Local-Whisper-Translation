@@ -122,8 +122,9 @@ Enter the following command in PowerShell:
 `setx OLLAMA_HOST "0.0.0.0:11434"`  
 `setx OLLAMA_ORIGINS "*"`  
 
-<img width="842" height="363" alt="10" src="https://github.com/user-attachments/assets/870605f7-43e6-475b-9dfa-1af56494c83d" />
-<img width="1492" height="716" alt="image" src="https://github.com/user-attachments/assets/848433d2-4e19-4f07-9ebb-8f2f149066b9" />
+<img width="842" height="363" alt="image" src="https://github.com/user-attachments/assets/3bd7e6b1-7f03-4071-a64a-f5886c71e7e1" />
+
+
 
 
 
