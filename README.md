@@ -168,13 +168,13 @@ Local Voice Ollama Guide
 
 ============================  
 
-How To use:
+How To use after first launch:  
 Step 9：啟動 Ollama  
 Step 9：Start Ollama  
-<img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/943fa1dc-4875-4864-92cd-c860a85b8b5e" />  
+
 Step 10：執行 launch.bat  
 Step 10：Run launch.bat  
-<img width="1920" height="1080" alt="11-2" src="https://github.com/user-attachments/assets/890ea02a-080f-4a3f-a830-b6499a893bd0" />  
+
 Step 11：開啟擴充功能面板  
 Step 11：Open the extension panel  
-<img width="1784" height="1226" alt="12" src="https://github.com/user-attachments/assets/4303f1b9-45d8-4a80-89ca-44cdf3a68c61" />  
+
